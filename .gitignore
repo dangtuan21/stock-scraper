@@ -48,3 +48,6 @@ __pycache__/
 
 # Ignore credentials
 credentials.json
+
+# Debugging screenshots
+debug_*
